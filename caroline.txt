@@ -6,12 +6,12 @@ Hi! My name is Caroline :-)
 
 <p> Previously, I worked at an early-stage PropTech SaaS company as the first product hire. I am proficient in Javascript, Node.JS, VSCode, HTML5, CSS, Git, GitHub, and command-line arguments.</p>
 
-<p>I'd to connect! Find me on LinkedIn here: <a href ="https://www.linkedin.com/in/carolinejobson/" target="_blank">LinkedIn</a> </p>
-<p> In the meantime, please find a selection of my coding projects on GitHub:
+<p>Let's connect! You can find me on LinkedIn here: <a href ="https://www.linkedin.com/in/carolinejobson/" target="_blank">LinkedIn</a> </p>
+<p> In the meantime, feel free to explore a selection of my coding assessments and projects on GitHub:
 <span>
 <a href="https://github.com/carolinejobson" target="_blank" >GitHub</a>
 
-Otherwise, send me a note at <a href="mailto: caj2156@columbia.edu">caj2156@columbia.edu</a>
+You can also reach me by email at <a href="mailto: caj2156@columbia.edu">caj2156@columbia.edu</a>
 
 <p>Until next time!</p>
 <span id="a">Caroline@Caroline-byte</span>:<span id="b">~</span><span id="c">$</span> exit
