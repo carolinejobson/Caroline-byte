@@ -1,8 +1,6 @@
 <span id="a">Caroline@Caroline-byte</span>:<span id="b">~</span><span id="c">$</span> cd Caroline/About_Caroline.txt <br>
 <span id="a">Caroline@Caroline-byte</span>:<span id="b">~</span><span id="c">$</span> cat About_Caroline.txt<br/><br/>
 
-<br>
-
 Hi! My name is Caroline.
 <p> I currently work as a Product Manager within Consumer and Community Banking at JPMorgan Chase. There, I own much of the Wealth Plan summary dashboard, a retail wealth product that offers an aggregated view of finances, regardless of institution. Previously, I worked at an early-stage PropTech SaaS company as the first product hire. I am proficient in Javascript, Node.JS, HTML5, CSS, Git, GitHub, and command-line arguments.</p>
 
