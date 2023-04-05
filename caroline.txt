@@ -1,17 +1,17 @@
 <span id="a">Caroline@Caroline-byte</span>:<span id="b">~</span><span id="c">$</span> cd Caroline/About_Caroline.txt <br>
 <span id="a">Caroline@Caroline-byte</span>:<span id="b">~</span><span id="c">$</span> cat About_Caroline.txt<br/><br/>
 
-Hi! My name is Caroline :-)
+Hi, My name is Caroline. :)
 <p> I currently work as a Product Manager at JPMorgan Chase. There, I own the end-to-end delivery of Wealth Plan, a retail wealth product that offers an aggregated view of finances, regardless of institution.</p>
 
 <p> Previously, I worked at an early-stage PropTech SaaS company as the first product hire. I am proficient in Javascript, Node.JS, VSCode, HTML5, CSS, Git, GitHub, and command-line arguments.</p>
 
-<p>Let's connect! You can find me on LinkedIn here: <a href ="https://www.linkedin.com/in/carolinejobson/" target="_blank">LinkedIn</a> </p>
-<p> A selection of my coding assessments and projects can be found here:
+<p>Let's connect! Please find my LinkedIn profile here: <a href ="https://www.linkedin.com/in/carolinejobson/" target="_blank">LinkedIn.</a> </p>
+<p> I am also active on GitHub. There, you can find examples of my work in front-end web development:
 <span>
-<a href="https://github.com/carolinejobson" target="_blank" >GitHub</a>
+<a href="https://github.com/carolinejobson" target="_blank" >GitHub.</a>
 
-Otherwise, send me a note at <a href="mailto: caj2156@columbia.edu">caj2156@columbia.edu</a>
+Thanks so much for your time. Feel free to send me a note at <a href="mailto: caj2156@columbia.edu">caj2156@columbia.edu.</a>
 
 <p>Until next time!</p>
 <span id="a">Caroline@Caroline-byte</span>:<span id="b">~</span><span id="c">$</span> exit
