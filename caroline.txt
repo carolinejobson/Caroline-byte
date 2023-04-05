@@ -4,7 +4,7 @@
 Hi, My name is Caroline. :)
 <p> I currently work as a Product Manager at JPMorgan Chase. There, I own the end-to-end delivery of Wealth Plan, a retail wealth product that offers an aggregated view of finances, regardless of institution.</p>
 
-<p> Previously, I worked at an early-stage PropTech SaaS company as the first product hire. I am proficient in Javascript, Node.JS, VSCode, HTML5, CSS, Git, GitHub, and command-line arguments.</p>
+<p> Previously, I worked at an early-stage PropTech SaaS company as the first product hire. I am proficient in JavaScript, Node.JS, VSCode, HTML5, CSS, Git, GitHub, and command-line arguments.</p>
 
 <p>Let's connect! Please find my LinkedIn profile here: <a href ="https://www.linkedin.com/in/carolinejobson/" target="_blank">LinkedIn.</a> </p>
 <p> I am also active on GitHub. There, you can find examples of my work in front-end web development:
